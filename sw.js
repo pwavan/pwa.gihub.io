@@ -9,6 +9,7 @@ const CACHE = "van123782.00";
 const ARCHIVOS = [
 
   "cmp/mi-footer.js",
+  "css/estilos.css"
   "img/icono256.png",
   "img/icono1024.png",
   "img/icono2048.png",
